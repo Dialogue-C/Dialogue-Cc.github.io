@@ -24,5 +24,13 @@ jianshu_username:   jianshu_id
 # Disqus settings（https://disqus.com/）
 disqus_username: DialogueC
 
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: 83e259f69b37d02a4633a2b7d960139c
+
+# Google Analytics
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto
+
 
 theme: jekyll-theme-minimal
