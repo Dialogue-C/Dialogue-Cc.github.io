@@ -21,4 +21,8 @@ github_username:    username
 facebook_username:  /aebc03d0f8a3
 jianshu_username:   jianshu_id
 
+# Disqus settings（https://disqus.com/）
+disqus_username: DialogueC
+
+
 theme: jekyll-theme-minimal
