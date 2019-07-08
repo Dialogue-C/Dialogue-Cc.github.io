@@ -34,3 +34,4 @@ disqus_username: DialogueC
 
 
 theme: jekyll-theme-minimal
+gems: [jekyll-paginate]
